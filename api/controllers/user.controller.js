@@ -22,36 +22,6 @@ class UserController {
     });
   }
 
-  static getOneWithBuilding(req, res) {
-    UserModel.findOneWithBuilding([req.params.id], (err, results) => {
-      if (err) {
-        res.status(500).send(err);
-      }
-      res.send(results);
-    });
-  }
-
-  static getAllInBuilding(req, res) {
-    UserModel.findAllInBuilding(
-      { building_id: req.params.building_id },
-      (err, results) => {
-        if (err) {
-          res.status(500).send(err);
-        }
-        res.send(results);
-      }
-    );
-  }
-
-  static findallbyUserId(req, res) {
-    UserModel.findAllBy([req.query.userId], (err, results) => {
-      if (err) {
-        res.status(500).send(err);
-      }
-      res.send(results);
-    });
-  }
-
   static getOne(req, res) {
     UserModel.findById({ id: parseInt(req.params.id) }, (err, results) => {
       if (err) {

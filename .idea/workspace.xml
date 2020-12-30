@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e8773c3-efdf-47ec-8ee7-286634c4d160" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/app/.eslintcache" afterDir="false" />
-    </list>
+    <list default="true" id="0e8773c3-efdf-47ec-8ee7-286634c4d160" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,5 +53,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

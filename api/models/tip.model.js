@@ -26,7 +26,7 @@ class TipModel {
 
   static findByAuthorId(where, callback) {
     db.query(
-      "SELECT T.id as tip_id, T.author_id, U.username AS author_username, T.title, T.slug, T.body, T.created_at, T.updated_at, T.published FROM tip AS T INNER JOIN USER as U ON U.id = T.author_id AND T.published = true AND T.author_id = ? ORDER BY updated_at DESC",
+      "SELECT T.id as tip_id, T.author_id, U.username AS author_username, T.title, T.slug, T.body, T.created_at, T.updated_at, T.published FROM tip AS T INNER JOIN user as U ON U.id = T.author_id AND T.published = true AND T.author_id = ? ORDER BY updated_at DESC",
       where,
       callback
     );
@@ -34,7 +34,7 @@ class TipModel {
 
   static findByCategoryId(where, callback) {
     db.query(
-      "SELECT T.id as tip_id, TC.category_id, T.author_id, U.username AS author_username, T.title, T.slug, T.body, T.created_at, T.updated_at, T.published FROM tip AS T INNER JOIN USER as U ON U.id = T.author_id AND T.published = true INNER JOIN tip_category as TC ON TC.tip_id = T.id AND TC.category_id = ? ORDER BY updated_at DESC",
+      "SELECT T.id as tip_id, TC.category_id, T.author_id, U.username AS author_username, T.title, T.slug, T.body, T.created_at, T.updated_at, T.published FROM tip AS T INNER JOIN user as U ON U.id = T.author_id AND T.published = true INNER JOIN tip_category as TC ON TC.tip_id = T.id AND TC.category_id = ? ORDER BY updated_at DESC",
       where,
       callback
     );
