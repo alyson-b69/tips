@@ -2,46 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e8773c3-efdf-47ec-8ee7-286634c4d160" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/assets/styles/Custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/assets/styles/Sign.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/assets/styles/prism-dracula.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/assets/styles/prism-xonokai.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/createTip/InputCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/createTip/PostTip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/createTip/SelectLanguage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/myFavorites/MyFavorites.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/myTips/MyTips.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/oneTip/OneTip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/sign/Sign.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/sign/TabSignIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/sign/TabSignUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/sign/TabsLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/tips/TipCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/tips/Tips.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/components/tipsByCategory/TipsByCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/config/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/context/UserContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/utils/slugify.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tips-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tips-app/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tips-app/.idea/tips-app.iml" afterDir="false" />
@@ -1510,7 +1470,7 @@
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime-types/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime-types/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime-types/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/node_modules/mime/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/node_modules/mime/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/mime/README.md" beforeDir="false" />
@@ -1859,7 +1819,6 @@
       <change beforePath="$PROJECT_DIR$/api/node_modules/vary/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/vary/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/node_modules/vary/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tips-app" beforeDir="false" afterPath="$PROJECT_DIR$/tips-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tips-app/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tips-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tips-app/package.json" afterDir="false" />
@@ -1901,7 +1860,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609333155518</updated>
-      <workItem from="1609333157865" duration="1184000" />
+      <workItem from="1609333157865" duration="1608000" />
     </task>
     <servers />
   </component>
