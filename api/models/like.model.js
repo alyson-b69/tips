@@ -23,7 +23,7 @@ class LikeModel {
 
   static create(data, callback) {
     db.query(
-      "INSERT INTO user_like_tip(tip_id, user_id) SELECT ?,? FROM user_like_tip WHERE NOT EXISTS (SELECT * FROM user_like_tip WHERE tip_id=? AND user_id=?) LIMIT 1",
+      "INSERT INTO user_like_tip(tip_id, user_id) SELECT ?,? FROM dual WHERE NOT EXISTS (SELECT * FROM user_like_tip WHERE tip_id=? AND user_id=?) LIMIT 1",
       data,
       callback
     );
