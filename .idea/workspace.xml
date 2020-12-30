@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e8773c3-efdf-47ec-8ee7-286634c4d160" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/.idea/tips-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/assets/styles/Custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/assets/styles/Sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/assets/styles/prism-xonokai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/createTip/InputCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/createTip/PostTip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/createTip/SelectLanguage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/myFavorites/MyFavorites.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/myTips/MyTips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/oneTip/OneTip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/sign/Sign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/sign/TabSignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/sign/TabSignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/sign/TabsLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/tips/TipCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/tips/Tips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/components/tipsByCategory/TipsByCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/context/UserContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tips-app/src/utils/slugify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tips-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tips-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tips-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tips-app/src/reportWebVitals.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mNTfcgBftTkfGkso6Xa7U1HqF6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8773c3-efdf-47ec-8ee7-286634c4d160" name="Default Changelist" comment="" />
+      <created>1609333155518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609333155518</updated>
+      <workItem from="1609333157865" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

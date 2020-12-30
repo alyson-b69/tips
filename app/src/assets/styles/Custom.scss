@@ -1,0 +1,206 @@
+@import "~bootstrap/scss/bootstrap";
+
+$color-orange: #ff6b00;
+$color-pink: #de1051;
+
+body {
+  background: #343a40eb;
+}
+
+h3{
+  text-transform: uppercase;
+}
+
+a{
+  color: $color-pink
+}
+
+a:hover{
+  text-decoration:none;
+  color: $color-orange
+}
+
+span.emoji {
+  margin-right: 5px;
+}
+
+.btn, .card, a {
+  transition: all .4s ease-in-out;
+}
+
+.h-100 {
+  height: 100%!important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: $color-pink;
+  border-color: $color-pink;
+}
+
+.btn-primary:hover {
+  background-color: $color-orange;
+  border-color: $color-orange;
+}
+
+.btn-delete {
+  color: lightgrey;
+  font-weight: 500;
+  margin-right: 1%;
+}
+
+.btn-delete:hover {
+  color: rgb(231, 82, 82);
+}
+
+
+/* HEADER */
+
+.dropdown-menu.show {
+  right: 0 ;
+  left:auto;
+  background:#343a40;
+  color: #7c7f83;
+  a{
+    color: #7c7f83;
+  }
+  a:hover{
+    color: rgba(255, 255, 255, 0.5);
+
+  }
+  .dropdown-item:hover{
+    background-color: transparent;
+  }
+}
+
+.dropdown-divider {
+  border-top: solid 1px #7c7f83;
+}
+
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.2);
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+.navbar-dark .navbar-nav .nav-link.active{
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.75)
+}
+
+
+main {
+  padding-top:56px;
+}
+
+
+  /* POST TIP*/
+
+.post-tip.container,
+.tips-view.container{
+  text-align: center;
+  min-height: 87vh;
+  background: #fff;
+  border: 1px solid #f5f5f5;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.5);
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+.post-tip input.form-control {
+  width: 60%;
+  margin: auto;
+}
+
+div.select-language {
+  display:flex;
+  justify-content:center;
+  padding-bottom:1%;
+  padding-top: 1%;
+}
+
+.radio {
+  margin-right: 2%;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+/* PAGE MULTIPLES TIPS */
+
+.title-container{
+  display:flex;
+  justify-content: space-between;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding-bottom: 1%;
+}
+
+.title-container h3{
+  margin:0;
+}
+
+
+/* CARD TIPS */
+
+.card {
+  border-radius: 10px;
+  box-shadow: 5px 5px 8px -5px rgba(0,0,0,.5);
+  margin-top: 2%;
+  cursor: default;
+}
+
+.card:hover {
+  border: 1px solid #d3d3d3;
+  transform: translateY(-5px);
+  box-shadow: 0 16px 40px rgba(0,0,0,.2);
+}
+
+.card-title.h5 {
+  text-transform: uppercase;
+}
+
+.card-title.h5 a {
+  color: #000000;
+}
+
+.card-title.h5 a:hover {
+  color: $color-pink;
+}
+
+.footer-card-meta {
+  justify-content: space-between;
+  display: flex;
+  font-size:0.8em;
+}
+
+.footer-category a {
+  color: $color-pink;
+}
+
+.footer-category a:hover {
+  color: $color-orange;
+}
+
+time {
+  margin-left: 5px;
+}
+
+/* SINGLE TIP */
+
+.tips-view > .footer-card-meta {
+  font-size: 1em;
+  margin: 1% auto;
+  width:80%
+}
+
+/* FOOTER */
+
+footer.text-center.pt-4.pb-4.foot-fluid {
+  background: #343a40;
+  color: #7c7f83;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.2);
+}
