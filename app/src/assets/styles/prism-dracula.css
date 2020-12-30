@@ -162,3 +162,9 @@ pre[class*="language-"] {
 .token.entity {
     cursor: help;
 }
+
+@media screen and (max-width: 1000px) {
+    .input-code {
+        width:90%;
+    }
+}
