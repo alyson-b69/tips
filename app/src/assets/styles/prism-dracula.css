@@ -164,7 +164,8 @@ pre[class*="language-"] {
 }
 
 @media screen and (max-width: 1000px) {
-    .input-code {
+    .input-code, .single-code {
         width:90%;
+        border-radius:5px;
     }
 }

@@ -204,3 +204,23 @@ footer.text-center.pt-4.pb-4.foot-fluid {
   color: #7c7f83;
   box-shadow: 0 0 20px 0 rgba(0,0,0,.2);
 }
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 1000px) {
+  .post-tip input.form-control {
+    width: 90%
+  }
+
+  .title-container {
+    flex-direction:column;
+  }
+
+  .title-container h3 {
+    margin-bottom: 3%;
+  }
+
+  .footer-card-meta{
+    flex-direction:column;
+  }
+}
