@@ -1,0 +1,973 @@
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+
+> app@0.1.0 start /home/abernabeu/tips/app
+> export PORT=3021 && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://0.0.0.0:3021/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /home/abernabeu/tips/app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+
+Compiled successfully!
+
+You can now view app in the browser.
+
+  http://localhost:3021
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+Compiling...
+Compiled successfully!
